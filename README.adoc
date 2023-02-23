@@ -1,4 +1,4 @@
-La version mise a jour en premier est disponible ici : https://github.com/Tructruc/TP4Qualite[]
+**La version mise a jour en premier est disponible ici : https://github.com/Tructruc/TP4Qualite[] **
 
 Ce project est un projet réalisé en cours de Qualité en BUT informatique a l’IUT de Blagnac.
 
